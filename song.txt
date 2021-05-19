@@ -1,3 +1,6 @@
 my song
 my first project
 some changes
+
+a few more lines
+to show how git gui works

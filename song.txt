@@ -10,3 +10,7 @@ git revert
 
 new branch
 new feature 
+
+non fast forward
+
+feature branch commit

@@ -7,3 +7,5 @@ to show how git gui works
 
 git revert
 ------------------
+
+new branch

@@ -14,4 +14,8 @@ new feature
 non fast forward
 
 feature branch commit
+
 main changes
+
+feature changes
+
